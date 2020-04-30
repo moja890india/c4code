@@ -1,0 +1,11 @@
+.MuiToolbar-root{
+	display: block!important;
+	
+}
+.make_to_center{
+	align-self: center;
+	margin:5px;
+}
+.MuiAppBar-colorPrimary {
+	background-color:#001b94!important;
+}
